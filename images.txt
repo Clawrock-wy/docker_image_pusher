@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 ollama/ollama
-nvcr.io/nvidia/pytorch:23.04-py3
+#nvcr.io/nvidia/pytorch:23.04-py3
+ghcr.io/open-webui/open-webui:main
