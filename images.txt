@@ -7,5 +7,6 @@
 #--platform=linux/amd64 ollama/ollama
 #nvcr.io/nvidia/pytorch:23.04-py3
 #idootop/mi-gpt
-#ollama/ollama:latest
+ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
+ghcr.io/666ghj/mirofish:latest
